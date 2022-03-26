@@ -1,0 +1,12 @@
+----------------------------Images grid------------------------------------
+https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute.jpg
+https://cdn.freecodecamp.org/testable-projects-fcc/images/random-quote-machine.png
+https://cdn.freecodecamp.org/testable-projects-fcc/images/calc.png
+
+
+----------------------------Color palette-----------------------------------
+https://coolors.co/palette/000000-14213d-fca311-e5e5e5-ffffff
+black - #000000
+blue - #14213D
+yellow - #FCA311
+
