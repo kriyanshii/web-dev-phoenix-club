@@ -11,9 +11,7 @@ I got to learn a lot during these 3 days and it was an amazing experience learni
 anyone with zero experience on programming can learn.
 You can check social profiles and activities by Pheonix Club on:
 <li><a href=
-"https://www.linkedin.com/company/lj-phoenix/">LinkedIn</a>
-<li><a href=
-"https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
+"https://www.linkedin.com/company/lj-phoenix/">LinkedIn</a> <br>
 <li><a
 href=
 "https://www.instagram.com/_lj_phoenix_/">Instagram</a>
